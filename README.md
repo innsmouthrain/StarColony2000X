@@ -56,7 +56,7 @@ Game pieces and functionality
     - Winning
       - At the end of the turn, a ceremony is held for the player with the most Intergalactic Space Dollars
       - It is customary to applaud this player and congratulate them on their victory
-      - They will hold on to this medal until another player has more dollars at the turn end
+      - They will hold on to this medal until another player has more dollars at a turn end
 - ### Laser
     - Can be fired by Robot Space Lord Council if enough tax has been collected
     - Can be fired by an individual player's one-time donation of the laser cost
@@ -98,12 +98,3 @@ A round of StarColony2000X
     - Mine regeneration
 
 
-# Possible changes
-
-- ### Question mark: Could the amount chosen for mining be hidden information? And also the movement marker?
-- ### They could be set on the ship board on pre-written boxes
-- ### Then the split between the split miners could be calculated differently
-- ### Generally would allow for more deceit/co-operation moments
-- ### It would have to be against the rules to show eachother your boards
--
-- ### Sending crystals to mines - this would need a lot of rebalancing since it could be op but could be a cool countermeasure to griefers
